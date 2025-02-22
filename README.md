@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Alex 👋
+
+I'm a Data Scientist, expert in AI/ML Industrialization (Python & R) 🚀 I enjoy developing tools for data analysis, statistics, and visualization. 🛠 I'm passionate about life sciences, I like to explore AI-driven solutions for challenges in biology and healthcare. 🧬
+
+💡 Always open to collaboration on exciting projects!
 
 <!--
 **alexym1/alexym1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
