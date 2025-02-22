@@ -1,6 +1,6 @@
 ## Hi, I'm Alex 👋
 
-I'm a Data Scientist, expert in AI/ML Industrialization (Python & R) 🚀 I enjoy developing tools for data analysis, statistics, and visualization. 🛠 I'm passionate about life sciences, I like to explore AI-driven solutions for challenges in biology and healthcare. 🧬
+I'm a Data Scientist, I help company to scale AI/ML projects from PoC to production (Python & R) 🚀 I enjoy developing tools for data analysis, statistics, and visualization. 🛠 I'm passionate about life sciences, I like to explore AI-driven solutions for challenges in biology and healthcare. 🧬
 
 💡 Always open to collaboration on exciting projects!
 
