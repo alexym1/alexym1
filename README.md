@@ -11,7 +11,7 @@
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 
-> Building, learning, and sharing in the world of data science, cloud, and open source. Always exploring new tech and workflows. 🚀 In love with biology and cosmetics. 🧬
+> Building, learning, and sharing in the world of data science, cloud, and open source. Always exploring new tech and workflows. In love with biology and cosmetics. 🧬
 
 
 
